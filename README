@@ -8,6 +8,16 @@ This repository has been anonymized for double-blind review.
 
 ## Repository structure
 
+TGDExperiencesRSL-CHI27/
+├── 1st filter/
+├── 2nd filter/
+├── 3rd filter/
+│ ├── Blind review by the first author/
+│ └── Blind review by the third author/
+├── Consolidation/
+├── Search string, link to access the search with specific search strings and specific search string for each database.txt
+└── SLR workflow.xlsx
+
 ### 1st filter/
 (1) "1st filter LSR articles": raw data from the first screening stage (title and abstract screening in Rayyan), including exclusion reasons. Studies do not yet carry an ID at this stage.
 (2) "1st filtration stage report": the detailed report for this stage.
@@ -20,13 +30,13 @@ Studies are numbered S01–S206 at this stage.
 
 ### 3rd filter/
 
-#### Blind review by the first author/
+#### 3rd filter/Blind review by the first author/
 (1) "Quality assessment criteria": quality criteria applied to all 72 studies retained for this stage, separated by tab.
 (2) "Code extraction (first author)": code extraction performed to build the taxonomy, separated by tab, covering all 72 studies (studies excluded at this stage are marked "removed by..." in their respective tab).
 (3) "Closed code": closed coding extractions, covering all 72 studies (studies excluded at this stage are marked "removed by..." in their respective tab).
 (4) "3rd filter studies": final eligibility disposition applied by the first author, with two tabs — accepted studies (45) and excluded by criteria.
 
-#### Blind review by the third author/
+#### 3rd filter/Blind review by the third author/
 (1) "Code extraction (third author)": independent code extraction performed by the third author, blind to the first author's codes, covering only the studies the first author had already marked eligible (hence the non-sequential study IDs).
 
 ### Consolidation/
