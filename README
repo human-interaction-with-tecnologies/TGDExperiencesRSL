@@ -1,11 +1,40 @@
-This supplementary material accompanies the paper "Strangers Consoling Each Other": A Systematic Review of Transgender and Gender Diverse Navigation of Social Media" (CHI 2027 submission).
+# Supplementary Materials
 
-01_search_strategy/ — final search strings per database and links to reproduce each query; full text of the RQs and operational questions guiding data extraction.
+This repository contains the supplementary materials accompanying the
+CHI 2027 submission "'Strangers Consoling Each Other': A Systematic
+Review of Transgender and Gender Diverse Navigation of Social Media."
 
-02_screening_process/ — decision records for each of the three screening stages (title/abstract, diagonal reading, full-text), including reviewer agreement/disagreement resolution and the list of studies excluded due to unavailable full text (EC7). Reviewer identities are anonymized as R1/R2/R3 consistent with the anonymized paper submission.
+This repository has been anonymized for double-blind review.
 
-03_quality_assessment/ — quality criteria scores (QC1-QC8) for all 45 included studies.
+## Repository structure
 
-04_included_studies_metadata/ — bibliographic and closed-coding metadata (year, venue, sample, age range, platforms, etc.) for each of the 45 included studies.
+### 1st filter/
+(1) "1st filter LSR articles": raw data from the first screening stage (title and abstract screening in Rayyan), including exclusion reasons. Studies do not yet carry an ID at this stage.
+(2) "1st filtration stage report": the detailed report for this stage.
 
-05_extended_taxonomies/ — calibrated codes and full taxonomies, including two dimensions (usage expectations; platform policies and design features already in use) that were extracted but not synthesized in the main paper, made available here to support future research.
+### 2nd filter/
+(1) "Articles with full text unavailable": the list of studies excluded under EC7 (full text unavailable).
+(2) "2nd filtration stage report": the detailed report for this stage.
+(3) "2nd filter articles eligibility": screening records for the second stage (diagonal reading of the 206 studies accepted from the first filter), including independent assessments by Researcher 1 and Researcher 2, their agreement analysis, the consolidated list of 72 studies advancing to the third filter, and the list of studies excluded by criteria.
+Studies are numbered S01–S206 at this stage.
+
+### 3rd filter/
+
+#### Blind review by the first author/
+(1) "Quality assessment criteria": quality criteria applied to all 72 studies retained for this stage, separated by tab.
+(2) "Code extraction (first author)": code extraction performed to build the taxonomy, separated by tab, covering all 72 studies (studies excluded at this stage are marked "removed by..." in their respective tab).
+(3) "Closed code": closed coding extractions, covering all 72 studies (studies excluded at this stage are marked "removed by..." in their respective tab).
+(4) "3rd filter studies": final eligibility disposition applied by the first author, with two tabs — accepted studies (45) and excluded by criteria.
+
+#### Blind review by the third author/
+(1) "Code extraction (third author)": independent code extraction performed by the third author, blind to the first author's codes, covering only the studies the first author had already marked eligible (hence the non-sequential study IDs).
+
+### Consolidation/
+(1) "Selected studies": full bibliographic metadata for each of the 45 included studies.
+(2) "Quality assessment criteria": QC1–QC8 scores for the 45 included studies.
+(3) "Codebook and complete taxonomy": raw extracted data ("Raw data" tab), calibrated data ("Calibrated data" tab), and the complete hierarchical taxonomy (parent and child codes with explanations) for Experiences, Challenges, Opportunities, and Design Implications. The raw and calibrated data tabs also include usage expectations and existing platform policies/design features extracted during coding but not synthesized into a taxonomy in the paper; as noted in our Future Work section, we encourage the research community to analyze this data independently.
+(4) "Closed code consolidation": bibliographic and closed-coding metadata (year, venue, sample, age range, platforms, etc.) for the 45 included studies, with one general data tab plus one tab per study (45 total).
+
+### Root files
+(1) "Search string, link to access the search with specific search strings and specific search string for each database": final search strings used in each of the five databases, with links to reproduce each query.
+(2) "SLR workflow": the full set of research questions (RQs) and operational questions (OQs) guiding data extraction, along with the timeline of search string development.
