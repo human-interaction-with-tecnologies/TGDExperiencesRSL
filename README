@@ -1,0 +1,27 @@
+This supplementary material accompanies the paper "Strangers Consoling
+Each Other": A Systematic Review of Transgender and Gender Diverse
+Navigation of Social Media" (CHI 2027 submission).
+
+01_search_strategy/ — final search strings per database and links to
+  reproduce each query; full text of the RQs and operational questions
+  guiding data extraction.
+
+02_screening_process/ — decision records for each of the three
+  screening stages (title/abstract, diagonal reading, full-text),
+  including reviewer agreement/disagreement resolution and the list
+  of studies excluded due to unavailable full text (EC7). Reviewer
+  identities are anonymized as R1/R2/R3 consistent with the anonymized
+  paper submission.
+
+03_quality_assessment/ — quality criteria scores (QC1-QC8) for all 45
+  included studies.
+
+04_included_studies_metadata/ — bibliographic and closed-coding
+  metadata (year, venue, sample, age range, platforms, etc.) for each
+  of the 45 included studies.
+
+05_extended_taxonomies/ — calibrated codes and full taxonomies,
+  including two dimensions (usage expectations; platform policies and
+  design features already in use) that were extracted but not
+  synthesized in the main paper, made available here to support
+  future research.
